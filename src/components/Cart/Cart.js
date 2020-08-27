@@ -12,7 +12,7 @@ function Cart(props) {
                         <p>Start your course today!</p>
                     </div>
                     <div className="col-lg-7 text-right">
-                        You Enrolled on <b>{props.cart.length}</b> Courses and Total  Cost is : <b>{totalCost}</b>
+                        You Enrolled on <b>{props.cart.length}</b> Courses and Total  Cost is : <b>${totalCost}</b>
                     </div>
                 </div>
             </div>
