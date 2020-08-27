@@ -9,7 +9,7 @@ function Cart(props) {
             <div className='container'>
                 <div className='row'>
                     <div className="col-lg-5 text-left">
-                        <p>Start your course today!</p>
+                        <p>Start your course today! Become a Music expert.</p>
                     </div>
                     <div className="col-lg-7 text-right">
                         You Enrolled on <b>{props.cart.length}</b> Courses and Total  Cost is : <b>${totalCost}</b>
@@ -20,4 +20,4 @@ function Cart(props) {
     )
 }
 
-export default Cart
+export default Cart;
