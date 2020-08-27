@@ -1,0 +1,32 @@
+.courseSingle {
+    margin-bottom: 30px;
+}
+.courseContent {
+    padding: 15px;
+    box-shadow: 6px 8px 11px 1px #0000001a;
+    border-radius: 4px;
+}
+.courseContent i{
+    float: right;
+}
+.courseContent h4 span{ 
+    float: right;
+    font-size: 17px;
+    line-height: 32px;
+}
+.courseContent p span{ 
+    color: red
+}
+.courseContent h4 span{ 
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+.courseContent h2 {
+    font-size: 30px;
+    font-family: system-ui;
+    margin-top: 10px;
+    color: #1d6b44;
+}
+.btn {
+    background: gold;
+}

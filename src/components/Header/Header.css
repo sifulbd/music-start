@@ -1,0 +1,18 @@
+.logo {
+    height: 50px;
+}
+.header {
+
+}
+.header {
+    text-align: center;
+    padding-top: 30px;
+}
+.nav {
+    padding: 15px 0;
+    background: #e6e6e6;
+}
+.nav a {
+    margin: 10px;
+    text-decoration: none;
+}
